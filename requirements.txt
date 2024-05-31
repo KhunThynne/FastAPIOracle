@@ -1,0 +1,8 @@
+
+python-dotenv
+fastapi 
+uvicorn 
+sqlalchemy 
+cx_Oracle
+
+
